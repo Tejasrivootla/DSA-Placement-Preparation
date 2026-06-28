@@ -1,5 +1,4 @@
-# DSA-Placement-Preparation
-My DSA journey for campus placements
+Hey buddies
 # 🚀 DSA Placement Preparation
 
 Hi! I'm **Tejasri Vootla**.
